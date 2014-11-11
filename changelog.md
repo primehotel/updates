@@ -1,6 +1,7 @@
 Updates
 ==================================================================================================
 A directory that stores a descriptive log and backup of all recent updates, upgrades, and changes.
+
 ==================================================================================================
 Rules for this Directory
 ==================================================================================================
@@ -13,8 +14,7 @@ Rules for this Directory
 ==================================================================================================
 Example
 ==================================================================================================
-#. |INSERT CHANGE TITLE HERE| - |INSERT DATE HERE (Mm/Dd/Yyyy)|
-   |INSERT DETAILED DESCRIPTION OF THIS CHANGE HERE|
+#. |INSERT CHANGE TITLE HERE| - |INSERT DATE HERE (Mm/Dd/Yyyy)| - |INSERT DETAILED DESCRIPTION OF THIS CHANGE HERE|
 
 ==================================================================================================
 Changelog
