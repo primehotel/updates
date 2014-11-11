@@ -14,7 +14,7 @@ Rules for this Directory
 ==================================================================================================
 Example
 ==================================================================================================
-#. |INSERT CHANGE TITLE HERE| - |INSERT DATE HERE (Mm/Dd/Yyyy)| - |INSERT DETAILED DESCRIPTION OF THIS CHANGE HERE|
+1. |INSERT CHANGE TITLE HERE| - |INSERT DATE HERE (Mm/Dd/Yyyy)| - |INSERT DETAILED DESCRIPTION OF THIS CHANGE HERE|
 
 
 ==================================================================================================
